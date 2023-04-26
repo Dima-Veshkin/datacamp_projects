@@ -1,2 +1,2 @@
-# datacamp_projects
-Notebooks of Datacamp projects
+# DataCamp Projects
+My notebooks to Datacamp projects and exams.
